@@ -10,7 +10,7 @@
 </head>
 <body>
         <h1>  
-            Welcomsssse to PlatForm
+            Welcome to PlatForm ver.2
         </h1>
 </body>
 </html>
